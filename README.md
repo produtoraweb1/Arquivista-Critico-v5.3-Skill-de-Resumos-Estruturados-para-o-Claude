@@ -1,0 +1,1 @@
+# Arquivista-Cr-tico-do-Claude
