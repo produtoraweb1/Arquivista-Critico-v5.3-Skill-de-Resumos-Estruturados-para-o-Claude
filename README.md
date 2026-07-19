@@ -88,3 +88,33 @@ Depois de mapear seus livros técnicos, doutrinas ou manuais e alimentar o seu e
 >
 > **Prompt para o Claude:**
 > *"Claude, preciso desenhar a página de vendas de um novo infoproduto voltado para gestão de tempo para executivos seniores. Anexei o **Resumo de Referência Futura** do livro sobre Gatilhos Mentais e Comportamento Humano. Varra a Seção 3 (Arquitetura do Pensamento) e selecione os 3 frameworks de influência mais indicados para o público B-Level. Em seguida, utilize o Glossário da Seção 4 para escrever duas variações de chamadas (H1) que utilizem rigorosamente a ressignificação conceitual proposta pelo autor para capturar a atenção imediata."*
+
+---
+
+## 🤝 Apoio ao projeto
+
+Se esta ferramenta ajudou você, é possível apoiar voluntariamente a manutenção e evolução do projeto.
+
+```txt
+Pix: doacoes@produtoraweb.com
+Cripto: 0xEd46dADa43cb7b4e4D753D631B4E99002530D780
+```
+
+---
+
+## 🛡️ Aviso legal
+
+Use com responsabilidade, revise os prompts antes de enviar e valide alterações importantes antes de publicar qualquer projeto.
+
+---
+
+## 📄 Licença
+
+Este projeto é distribuído sob a licença **GNU General Public License v3.0 (GPL-3.0)**.
+
+Você pode usar, estudar, modificar e redistribuir este projeto, desde que qualquer versão modificada ou redistribuída também mantenha o código aberto sob os termos da GPL-3.0.
+
+Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+Desenvolvido por ProdutoraWeb.com para revolucionar estratégias de busca orgânica e visibilidade digital. 🚀
